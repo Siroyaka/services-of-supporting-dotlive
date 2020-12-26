@@ -1,2 +1,2 @@
-# dotlive-fans
+# dotlive-fans-service
 Siroyakaが運営しているどっとライブの非公式ファンサービスについてのリリースノートやロードマップなどを公開する
